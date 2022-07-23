@@ -8,11 +8,11 @@ This website will be a basic HTML static website containing delicious recipes th
 - Recipes Folder
     - Gnocchi-Al-Curry.html
 
-    - Crispy-Tacos.html.html
+    - Crispy-Tacos.html
 
     - Stuffed-Eggplant.html
 
 - Images Folder
     - Images for each recipe
-    
+
 - CSS Layout (Added at a later stage)
